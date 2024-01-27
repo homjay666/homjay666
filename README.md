@@ -21,3 +21,10 @@
 
 - [个人博客](http://www.zhjwxy.top/)
   <!-- BLOG-POST-LIST:END -->
+
+
+---
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=homjay666&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homjay666&hide_progress=true)
