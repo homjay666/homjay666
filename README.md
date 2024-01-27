@@ -1,18 +1,23 @@
 ### Hi there 👋
-This is the place where I opensource stuff and break things :rofl:
+我是数据漫游者 :robot:
 
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning `Rust`
-- 💬 &nbsp;Ask me about anything related to `JavaScript`/`TypeScript` or `Vue`/`React`
-- 👨‍💻 &nbsp;Read more about my projects at [realyujie.xlog.app](https://realyujie.xlog.app/portfolios)
-- ⚡ &nbsp;Fun fact: I want to raise a cat 🐈
+- :world_map:&nbsp;观点: 数据不是石油，而是原油。只有经过提炼才创造价值
 
-📕 &nbsp;**Latest Blog Posts**
+- :star:&nbsp;目标: 立志未来成为数据科学家
+
+- :computer:&nbsp;博客: [www.zhjwxy.top](http://www.zhjwxy.top/)
+
+- :wave:&nbsp;进行: 刷`leetcode`
+
+- :eyes:&nbsp;交流: 一起讨论数据开发、数据治理、数据分析、数据科学等问题
+
+  
+
+  
+
+📕 &nbsp;**参考链接**
 <!-- BLOG-POST-LIST:START -->
-- [美化自己的 GitHub 个人主页](https://xlog.app/api/redirection?characterId=54234&noteId=14)
-- [Typora 激活指南](https://xlog.app/api/redirection?characterId=54234&noteId=13)
-- [设置 Google Voice 自动保号](https://xlog.app/api/redirection?characterId=54234&noteId=8)
-- [稳定实用的 Youtube 视频下载器](https://xlog.app/api/redirection?characterId=54234&noteId=7)
-- [电脑全局翻译/写作工具](https://xlog.app/api/redirection?characterId=54234&noteId=6)
-<!-- BLOG-POST-LIST:END -->
+
+- [个人博客](http://www.zhjwxy.top/)
+  <!-- BLOG-POST-LIST:END -->
