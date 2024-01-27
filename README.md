@@ -33,8 +33,6 @@
 
 ---
 📕 &nbsp;**技术栈**
-
-<span>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,4 +41,3 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Spark](https://img.shields.io/badge/Apache Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Flink](https://img.shields.io/badge/Apache Flink-E6526F?style=for-the-badge&logo=Apache Flink&logoColor=white)
-</span>
