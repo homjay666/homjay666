@@ -36,8 +36,9 @@
 <br>
 <span >
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+ </span>
+<span >
 <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
 <img src="https://img.shields.io/badge/Apache Kafka-000?style=for-the-badge&logo=apachekafka" />
