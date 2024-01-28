@@ -4,7 +4,7 @@
 
 - :world_map:&nbsp;观点: 数据不是石油，而是原油。只有经过提炼才创造价值
 
-- :star:&nbsp;目标: 立志未来成为数据科学家
+- :star:&nbsp;目标: 立志未来成为数据领域专家
 
 - :computer:&nbsp;博客: [www.zhjwxy.top](http://www.zhjwxy.top/)
 
@@ -37,11 +37,12 @@
 <span >
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
- </span>
+</span>
+<br>
 <span >
 <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
 <img src="https://img.shields.io/badge/Apache Kafka-000?style=for-the-badge&logo=apachekafka" />
 <img src="https://img.shields.io/badge/Apache Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" />
 <img src="https://img.shields.io/badge/Apache Flink-E6526F?style=for-the-badge&logo=Apache Flink&logoColor=white" />
- </span>
+</span>
