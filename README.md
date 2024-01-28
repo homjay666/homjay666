@@ -46,3 +46,15 @@
 <img src="https://img.shields.io/badge/Apache Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" />
 <img src="https://img.shields.io/badge/Apache Flink-E6526F?style=for-the-badge&logo=Apache Flink&logoColor=white" />
 </span>
+<br>
+<span >
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</span>
+<br>
+<span >
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+</span>
