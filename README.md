@@ -2,9 +2,9 @@
 我是数据漫游者 :robot:
 
 
-- :world_map:&nbsp;观点: 数据不是石油，而是原油。只有经过提炼才创造价值
+- :world_map:&nbsp;观点: 数据+算力+算法=服务
 
-- :star:&nbsp;目标: 立志未来成为数据领域专家
+- :star:&nbsp;目标: 成为全社会数据领域中的稀缺人才
 
 - :computer:&nbsp;博客: [www.zhjwxy.top](http://www.zhjwxy.top/)
 
