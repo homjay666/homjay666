@@ -10,7 +10,7 @@
 
 - :computer:&nbsp;博客: [www.zhjwxy.top](http://www.zhjwxy.top/)
 
-- :wave:&nbsp;进行: 刷`leetcode`
+- :wave:&nbsp;进行: 考研ING
 
 - :eyes:&nbsp;交流: 一起讨论数据开发、数据治理、数据分析、数据科学等问题
 
