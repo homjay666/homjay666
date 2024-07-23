@@ -4,15 +4,13 @@
 
 - :brain:&nbsp;定位: 第一性原理践行者、长期主义者、复盘管理师和PDCA执行者
 
-- :world_map:&nbsp;观点: 数据+算力+算法=服务
-
 - :star:&nbsp;目标: 成为全社会数据领域中的稀缺人才
 
 - :computer:&nbsp;博客: [www.zhjwxy.top](http://www.zhjwxy.top/)
 
-- :wave:&nbsp;进行: 考研ING
+- :wave:&nbsp;进行: 
 
-- :eyes:&nbsp;交流: 一起讨论数据开发、数据治理、数据分析、数据科学等问题
+- :eyes:&nbsp;交流: 一起讨论数据开发、数据治理、数据分析、数据服务等问题
 
   
 
